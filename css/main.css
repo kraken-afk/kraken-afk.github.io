@@ -383,7 +383,14 @@ h1, h2 {
   .textHead h1 {
     margin: 0.8rem 0;
   }
+  
+  .c {
+    font-size: .4rem;
+  }
 
+  .links a svg {
+  transform: scale(1);
+}
 
   .nav {
     width: 100%;
